@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev. Pleno C# .Net & React | Typescript | Next<br>Actually working at Neon Pagamentos<br>I have a personal project and you can visit at this link: https://chelf.app<br>I love to learn new things :)
+Dev. Pleno C# .Net & React | Typescript | Next<br>Currently working at Neon Pagamentos<br>I have a personal project and you can visit at this link: https://chelf.app<br>I love to learn new things :)
 
 
 ## 🌐 Socials:
