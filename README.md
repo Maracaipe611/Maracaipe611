@@ -5,15 +5,15 @@ I'm a passionate Software Engineer with a knack for crafting intelligent solutio
 ## 🔭 My Tech Stack
 
 - Proficient in Web Development technologies such as **C#, .NET Core, ASP.NET, React, TypeScript, Node.js,** and **Next.js**.
-- Skilled in automation tools like **Python, Node.js,** and **Excel macros**.
-- Proficient in managing databases with **PostgresSQL** and **MongoDB**.
+- Skilled in automation tools like **Python, Node.js,** and **Shell Script**.
+- Proficient in managing databases with **PostgresSQL**, **MySql** and **MongoDB**.
 - Experienced in application orchestration with **Docker** and designing efficient **CI/CD pipelines**.
 
 ## 🚀 My Projects
 
-One of my exciting projects is a food-focused platform that leverages Natural Language Processing (NLP) and web scraping techniques. You can check it out at [chelf.app](https://chelf.app).
-Multiplayer Chess Game: [Chess](https://github.com/Maracaipe611/Chess-2.0)
-[Backtracking Algorithm](https://github.com/Maracaipe611/Knight)
+- One of my exciting projects is a food-focused platform that leverages Natural Language Processing (NLP) and web scraping techniques. You can check it out at [chelf.app](https://chelf.app).
+- Multiplayer Chess Game: [Chess](https://github.com/Maracaipe611/Chess-2.0)
+- [Backtracking Algorithm](https://github.com/Maracaipe611/Knight)
 
 ## 🎯 What I'm Focused On
 
