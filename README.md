@@ -1,6 +1,26 @@
-# 💫 About Me:
-Dev. Pleno C# .Net & React | Typescript | Next<br>Currently working at Neon Pagamentos<br>I have a personal project and you can visit at this link: https://chelf.app<br>I love to learn new things :)
+# Hello, I'm Lucas Maracaípe 👋
 
+I'm a passionate Software Engineer with a knack for crafting intelligent solutions to complex problems. With a solid background in Web Development and a penchant for automation, I strive to improve systems and workflows.
+
+## 🔭 My Tech Stack
+
+- Proficient in Web Development technologies such as **C#, .NET Core, ASP.NET, React, TypeScript, Node.js,** and **Next.js**.
+- Skilled in automation tools like **Python, Node.js,** and **Excel macros**.
+- Proficient in managing databases with **PostgresSQL** and **MongoDB**.
+- Experienced in application orchestration with **Docker** and designing efficient **CI/CD pipelines**.
+
+## 🚀 My Projects
+
+One of my exciting projects is a food-focused platform that leverages Natural Language Processing (NLP) and web scraping techniques. You can check it out at [chelf.app](https://chelf.app).
+Multiplayer Chess Game: [Chess](https://github.com/Maracaipe611/Chess-2.0)
+[Backtracking Algorithm](https://github.com/Maracaipe611/Knight)
+
+## 🎯 What I'm Focused On
+
+- Continually honing my existing skills while staying eager to learn new things.
+- Pursuing smart solutions to complex challenges in every project I undertake.
+
+Feel free to reach out to me for any exciting opportunities or collaboration!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maracaipelucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maracaipelc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maracaipe611) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LcMaraca) 
